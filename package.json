@@ -14,7 +14,6 @@
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "rm": "^0.1.8",
     "rxjs": "^6.6.3"
   },
   "devDependencies": {
