@@ -1,3 +1,3 @@
-# React Starter Template
+# React & Typescript Utils
 
-this is my starter template for react including prettier rxjs webpack and babel
+some random utilities/compononents for my personal use
